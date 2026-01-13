@@ -6,7 +6,7 @@
       <body>
         <strong>TechGamer, founded in 2018, is a global retailer of new and refurbished gaming products. The company primarily sells through its online website, complemented by a mobile app, and leverages multiple marketing channels to reach and engage customers worldwide. With a customer base of approximately 21,000 active users and over 20,000 completed transactions, TechGamer generated $6.1 million in annual sales revenue over two years (2019-2021), recording the change in sales before and post-pandemic period. This project analyzes TechGamer’s sales data to uncover performance trends, product insights, and customer behavior patterns, providing actionable recommendations for business growth and strategic planning.<br>
       </body>
-      <h3>Northstar Metrics</h3>
+      <h3>Metrics</h3>
       <h4>
         <ul><li>Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).</li>
           <li>Product performance - Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.</li>
