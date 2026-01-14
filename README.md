@@ -23,25 +23,22 @@
   <tr>
     <div width="920">
       <h1 align="center">Executive Summary</h1>
-      <h3 align="center">Sales Revenue Analysis (2019–2021)</h3>
+      <h3 align="center">TechGamer Sales Show Sustained Growth Momentum Following 2020</h3>
       <div align="center">
         <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://i.postimg.cc/KjNFfkyb/Screenshot-2026-01-13-at-12-39-22.png" />
       </div>
       <td width="460" valign="top">
         <ol>
           <li>
-            <strong>Revenue Growth and Peak Performance:</strong>
+            <strong>Sustained Sales Growth Following 2020 Acceleration:</strong>
             <ul>
-              <li>2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
-              <li>Q4 2020 saw the highest revenue ($1.25M in December 2020), making it the best-performing period.</li>
-              <li>January 2021 ($1.03M) also maintained strong sales, though a downward trend started afterward.</li>
+              <li>Overall, TechGamer demonstrates a strong upward sales trajectory across the timeframe. Monthly revenue remained relatively stable at a lower base in 2019, followed by a pronounced acceleration beginning in early 2020. From that point onward, sales consistently exceeded the historical average monthly revenue of $236.6K, indicating successful scaling of sales operations and sustained growth momentum.</li>
             </ul>
           </li>
           <li>
-            <strong>Declining Trend in 2022</strong>
+            <strong>Consistent Year-End Demand Drives Seasonal Peaks</strong>
             <ul>
-              <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
-              <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
+              <li>Clear seasonality effects are evident in the data. Sales peak consistently during Q4, with December emerging as the strongest-performing month, while early-year months such as January and February tend to underperform relative to annual highs. This recurring pattern suggests that consumer demand is significantly influenced by year-end spending and promotional cycles.</li>
             </ul>
           </li>
         </ol>
@@ -49,18 +46,17 @@
       <td width="460" valign="top">
         <ol start="3">
           <li>
-            <strong>Quarterly Insights & Seasonal Trends</strong>
+            <strong>Seasonality Creates Both Upside and Planning Challenges</strong>
             <ul>
-              <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
-              <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
+              <li>From a business perspective, these findings highlight the importance of seasonally informed planning. Predictable demand spikes create opportunities to optimize inventory allocation, marketing investment, and operational capacity, while softer periods present opportunities for targeted initiatives to stabilize revenue.</li>
             </ul>
           </li>
           <li>
-            <strong>Key Takeaways & Recommendations</strong>
+            <strong>Recommendations to Maximize Peak-Season Performance</strong>
             <ul>
-              <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
-              <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
-              <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum.</li>
+              <li>Prioritize marketing, inventory, and promotional efforts ahead of peak Q4 periods to maximize revenue capture.</li>
+              <li>Implement targeted strategies during off-peak months to reduce revenue volatility.</li>
+              <li>Incorporate observed seasonality patterns into sales forecasting and operational planning processes.</li>
             </ul>
           </li>
         </ol>
@@ -70,7 +66,7 @@
 </table>
 
 <h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
-<body>The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.</body>
+<body>The database structure as seen below consists of four tables: orders, customers, and geo_lookup, with a total row count of 10,8127 records.</body>
 <div align="center">
   <img width="680" src="https://i.postimg.cc/Y0YRmp3M/Screenshot-2026-01-13-at-17-27-50.png">
 </div>
@@ -79,13 +75,13 @@
   <tr>
     <h1 align="center">Sales Trend</h1>
     <td width="1000">
-      <img width="300" src="https://i.postimg.cc/gJBXqDSD/Screenshot-2026-01-09-at-16-41-51.png">
+      <img width="300" src="https://i.postimg.cc/RVyG0XnP/Screenshot-2026-01-14-at-15-51-12.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://i.postimg.cc/FFwXdBg4/Screenshot-2026-01-09-at-16-51-30.png">
+      <img width="300" src="https://i.postimg.cc/Qxxv74C5/Screenshot-2026-01-14-at-15-49-18.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://i.postimg.cc/7h261yTb/Screenshot-2026-01-09-at-16-42-14.png">
+      <img width="300" src="https://i.postimg.cc/9X1ncdpg/Screenshot-2026-01-14-at-15-49-57.png">
     </td>
   </tr>
 </table>
@@ -96,54 +92,51 @@
     <td>
       <strong>Sales Revenue</strong>
       <ol>
-        <li>Sharp Decline in Q4 2022 – A Major Sales Anomaly <ul>
-            <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>. </li>
-            <li>Sales in November 2022 reached a low of $178K, significantly below the $413K–$934K range observed in prior years. This represents a <strong>~57-81% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020. </li>
+        <li>Strong Post-2020 Revenue Acceleration <ul>
+            <li>Total sales demonstrate a clear upward trajectory across the timeframe, with a pronounced acceleration beginning in early 2020. </li>
+            <li>Following this inflection point, monthly revenue consistently exceeds the historical average of $228K, indicating successful scaling of sales operations. </li>
           </ul>
         </li>
-        <li>Post-Pandemic Sales Normalization (2020-2022 Trends) <ul>
-            <li>2020 Sales Surge: The pandemic led to a significant boost in eCommerce sales, with Q2-Q4 2020 seeing a rapid increase (e.g., <strong>Q4 2020 was nearly double Q4 2019</strong>). </li>
-            <li>2021 Slight Slowdown: Sales remained high but started stabilizing, showing a decline from peak pandemic levels.</li>
-            <li>2022 Major Decline: A <strong>consistent drop in sales across all quarters</strong> suggests a post-pandemic correction, with inflation, lower consumer spending, or increased competition. </li>
+        <li>Concentrated Year-End Revenue Peaks <ul>
+            <li>Sales peak consistently toward the end of each year, with December emerging as the strongest-performing month, reaching a high of approximately $549K. </li>
+            <li>This recurring pattern suggests that overall revenue performance is significantly influenced by year-end demand cycles.</li>
           </ul>
         </li>
-        <li>Declining Growth Throughout 2022 – Indicating Weak Consumer Demand <ul>
-            <li>Each quarter in 2022 experienced a downward trend.</li>
-            <li>Q1: Started fairly strong ($705K in Jan) but lower than 2021.</li>
-            <li>Q2 - Q3: Dropped further, below $500K per month and continued decline through Q3 with Aug/Sep below $400K.</li>
-            <li>Q4: <strong>Historic low, indicating critical demand issues</strong>. This suggests customer retention, pricing, or product-market fit issues. TechZone may need to re-strategize through marketing, promotions, or change in pricing. </li>
+        <li>Data Coverage Consideration <ul>
+            <li>The decline observed in early 2021 should be interpreted with caution due to incomplete data availability, rather than as a confirmed downward trend.</li>  
           </ul>
         </li>
       </ol>
       <strong>Average Order Value</strong>
       <ol>
-        <li> Sharp AOV Surge in 2020, followed by a Decline in 2021-2022 <ul>
+        <li> Gradual Improvement in Average Order Value <ul>
             <li>
-              <strong>2020 saw the highest AOV growth, peaking at $321 (Oct 2020)</strong> compared to $246 (Nov 2019), aligning with pandemic-driven eCommerce boom.
+              Average Order Value (AOV) shows a steady upward trend, rising from the low-to-mid $200 range in 2019 to consistently above $300 in later periods.
             </li>
-            <li>Post-pandemic correction (2021-2022) led to a steady decline, with AOV in 2022 returning close to 2019 levels (~$234-$237).</li>
+            <li>A temporary dip in early 2020 (approximately $227) is followed by a sustained recovery, suggesting improvements in pricing, product mix, or customer purchasing behavior.</li>
           </ul>
         </li>
-        <li>2022 AOV is lower and relatively more volatile compared to previous years <ul>
+        <li>AOV as a Supporting Revenue Driver <ul>
             <li>
-              <strong>2022 AOV fluctuates significantly </strong> between $216 (Oct) and $256 (Sep).
-            </li>
-            <li>Q4 2022 AOV is significantly lower than Q4 2020 & 2021, meaning holiday spending per order has dropped.</li>
-          </ul>
-        </li>
-        <li>Long-Term AOV Decline May Indicate Price Sensitivity <ul>
-            <li>From a peak of ~$321 in 2020, AOV steadily dropped to ~$234 in 2022 which is 27% drop.</li>
-            <li>Over the span of four years, the change in AOV growth has been relatively constant, indicating minimal changes in product pricing (as illustrated in Sales Growth vs. AOV Growth below).</li>
-            <li>AOV in 2022 is likely not a major factor in the decline of sales that year.</li>
+              AOV remains above the historical average of $261 for most of the post-2020 period, contributing positively to overall revenue growth alongside rising order volume.  
           </ul>
         </li>
       </ol>
       <strong>Order Count</strong>
       <ol>
-        <li>Order counts closely follow sales revenue, indicating that the decline in revenue is primarily due to <strong>fewer orders</strong> rather than a drop in AOV in 2022. </li>
-        <li>Total orders <strong>dropped by 40%</strong> from 2021 to 2022. </li>
-        <li>The sales anamoly and decline <strong>started in mid-2022</strong>, with orders falling from 2,034 in July to just 825 in October. </li>
-        <li>While people are spending slightly less per order, the <strong>decline in order frequency</strong> directly results in lower sales revenue. </li>
+        <li> Expanding Transaction Volume <ul>
+            <li>
+              Order count increases substantially over time, reflecting growing customer demand and higher transaction activity.
+            </li>
+            <li>Post-2020 order volumes remain consistently above the historical average of 810 orders, indicating sustained demand momentum.</li>
+          </ul>
+        </li>
+        <li> Seasonal Spikes in Order Activity <ul>
+            <li>
+              Order volumes peak during year-end periods, with monthly highs reaching approximately 1,671 orders, reinforcing the presence of strong seasonal purchasing behavior.
+            </li>
+          </ul>
+        </li>
       </ol>
     </td>
   </tr>
