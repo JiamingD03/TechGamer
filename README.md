@@ -146,10 +146,10 @@
   <table>
     <tr>
       <h4>
-        <strong>Sales Growth follows seasonal fluctuations, while AOV remains relatively constant, except for the Sales Growth in October 2022</strong>
+        <strong>Sales Growth follows seasonal fluctuations, while AOV remains relatively constant
       </h4>
       <td>
-        <img width="700" alt="Sales Growth vs. AOV Growth" src="https://i.postimg.cc/q7K63P2t/Screenshot-2026-01-08-at-21-29-10.png" />
+        <img width="700" alt="Sales Growth vs. AOV Growth" src="https://i.postimg.cc/PfmZ8DqG/Screenshot-2026-01-14-at-19-06-50.png" />
       </td>
     </tr>
   </table>
@@ -159,7 +159,7 @@
      <h1 align="center">Product Performance</h1>
       <div align="center">
         <h3>Four Key Products Emerged as the Primary Drivers of Overall Sales Changes</h3>
-        <img width="700" alt="Product sales graph from 2019 to 2022" src="https://i.postimg.cc/wvXF7jhf/Screenshot-2026-01-10-at-13-26-22.png" />
+        <img width="700" alt="Product sales graph from 2019 to 2022" src="https://i.postimg.cc/CLq28mqy/Screenshot-2026-01-14-at-19-12-48.png" />
       </div>
     <tr>
   </tr>
@@ -171,27 +171,28 @@
       <td width="333" valign="top">
       <h3>The Best and Worst</h3>
       <ul>
-        <li>The <strong>27 Inch 4K Gaming Monitor</strong> had consistently strong sales year over year totaling <strong>$9.85M</strong>, and it is the highest revenue generating product overall.</li>
-        <li>Other best-performing products in terms of sales are <strong>Apple AirPods Headphones($7.74M)</strong>, <strong>MacBook Air Laptop($6.30M)</strong>, and <strong>Thinkpad Laptop($3.21M)</strong>.</li>
-        <li>Other products accounted for minimal sales shares and had a negligible impact on overall sales.</li>
+        <li>Total sales are dominated by a limited number of core products, with the 27-inch 4K gaming monitor generating close to $2.0M in cumulative revenue, making it the single largest contributor.</li>
+        <li>The Nintendo Switch and Sony PlayStation 5 Bundle each contribute approximately $1.5M–$1.7M in total sales, forming a clear second tier of high-impact products.</li>
+        <li>In contrast, remaining products—including gaming accessories—contribute only a small fraction of total revenue, creating a pronounced long-tail distribution.</li>
+      </ul>
+        
         
       
       
   <td width="333" valign="top">
-      <h3>AOV Over Time</h3>
+      <h3>Core Products Maintain Distinct and Stable AOV Bands</h3>
       <ul>
-        <li>The AOV peaked in 2020 at $300.16 and then declined in 2021 ($254.71) and 2022 ($229.91).</li>
-        <li>MacBook Air Laptop ($1,588), ThinkPad Laptop ($1,100), and Apple Iphone ($741) are the biggest contributors to AOV. </li>
-        <li>Samsung Charging Cable Pack and Samsung Webcam have relatively low price points ($20.20 and $50.43 on average). They are stable but do not significantly impact AOV.</li>
-        <li>AOV is trending downward, but mainly due to a decline of product sales.</li>
+        <li>The Sony PlayStation 5 Bundle consistently maintains the highest AOV, fluctuating around $1.5K–$1.7K, reflecting its premium positioning.</li>
+        <li>Across products, AOV levels remain relatively stable over time, with fluctuations largely confined within established price bands. </li>
+        <li>This stability suggests that changes in total revenue are driven primarily by order volume, rather than significant shifts in pricing strategy or discount intensity.</li>
       </ul>
       </td>
       <td width="333" valign="top">
-      <h3>Heat Map Findings</h3>
+      <h3>Demand Growth Is Concentrated in a Few High-Volume Products</h3>
       <ul>
-        <li>Consistent Q4 spikes, likely due to Black Friday, Cyber Monday, and the holiday shopping season.</li>
-        <li>Biggest Q4 Performer: The <strong>27-inch 4K Gaming Monitor</strong>, <strong>Apple AirPods</strong> saw the biggest spikes.</li>
-        <li>Overall, the green area highlights the best-performing periods. These periods, when analyzed at the product level, leverage further investigation and can provide valuable insights to help suggest future strategies.</li>
+        <li>The Nintendo Switch exhibits the strongest growth in order volume, with monthly orders rising from roughly 200–300 in 2019 to peaks exceeding 700 orders in later periods.</li>
+        <li>High-volume products such as the Nintendo Switch drive revenue primarily through order count expansion, despite lower AOV.</li>
+        <li>In contrast, premium products like the PlayStation 5 Bundle generate revenue through high AOV with lower transaction volumes, reflecting different demand mechanics.</li>
       </ul>
       </td>
 </tr>
@@ -199,12 +200,12 @@
 <table align="center">
     <tr align="center">
       <td width="1000" valign="top">
-      <h3>AOV Exhibited Significant Fluctuations Among the Top Four Products (2019-2022)</h3>
-      <img width="800" src="https://i.postimg.cc/RZ6wFyZs/Screenshot-2026-01-11-at-14-56-39.png">
+      <h3>Average Order Value (AOV) by Product Over Time</h3>
+      <img width="800" src="https://i.postimg.cc/DwY5YGsg/Screenshot-2026-01-14-at-19-17-50.png">
     </td>
     <td width="1000">
-      <h3>Product Sales Heat Map by Quarter</h3>
-      <img width="450" src="https://i.postimg.cc/ryd0QyFk/Screenshot-2026-01-09-at-13-02-44.png">
+      <h3>Order Count by Product Over Time</h3>
+      <img width="450" src="https://i.postimg.cc/W4Lq3bPV/Screenshot-2026-01-14-at-19-21-48.png">
     </td>
   </tr>
 </table>
