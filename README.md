@@ -214,16 +214,16 @@
 </table>
 <table align="center">
   <tr>
-    <h1 align="center">Loyalty Program Learnings</h1>
+    <h1 align="center">Marketing Channel Performance Insights</h1>
     <table align="center">
     <tr align="center">
       <td width="1000">
-      <h3>Average Order Value by Loyalty Status</h3>
-      <img width="450" src="https://i.postimg.cc/J42pSzj5/Screenshot-2026-01-09-at-13-11-02.png">
+      <h3>Direct Channel Is the Primary Driver of Overall Sales Growth</h3>
+      <img width="450" src="https://i.postimg.cc/8c3f6xCw/Screenshot-2026-01-14-at-22-12-12.png">
     </td>
     <td width="1000">
-      <h3>Number of Orders by Loyalty Status</h3>
-      <img width="450" src="https://i.postimg.cc/0ybx46Y4/Screenshot-2026-01-10-at-22-18-16.png">
+      <h3>Direct Channel Consistently Drives Sales Across Core Products</h3>
+      <img width="550" src="https://i.postimg.cc/zvDF7m8L/Screenshot-2026-01-14-at-22-10-25.png">
     </td>
   </tr>
 </table>
@@ -233,73 +233,60 @@
       <tr>
         <td>
           <ul>
-            <li>Loyalty members have sustained AOV growth beyond the pandemic boom, with sales revenue increasing from $0.4M in 2019 to $2.7M in 2022 and an AOV growth rate of 18% from 2019 to 2022. Loyalty members continued to purchase higher-priced products and place more orders after the pandemic boom, up until August 2022.</li>
-            <li>Non-loyalty members have not sustained sales revenue and AOV growth beyond the pandemic boom, with sales revenue decreasing from $3.4M in 2019 to $2.2M in 2022, along with an AOV decline of 8% during the same period.</li>
-            <li>In 2022, loyalty members spent almost $31 more on average than non-loyalty members ($245 vs. $214). AOV for loyalty members has steadily increased year over year, climbing 1.1% from 2021, while non-loyalty members' AOV declined by 18.7%.</li>
-            <li>Loyalty members outspend non-loyalty members on returning orders by nearly $60, whereas non-loyalty members have historically spent more on their first TechSphere orders.</li>
+            <li>The direct channel dominates total sales performance, contributing the vast majority of revenue across the entire timeframe, rising from below $150K per month in 2019 to peaks exceeding $400K during high-demand periods. This strong upward trend indicates that overall revenue growth is primarily driven by direct customer engagement, rather than reliance on third-party channels.</li>
+            <li>Email emerges as the strongest secondary channel, showing steady growth over time and reaching monthly sales in the $40K–$60K range during peak periods.</li>
+            <li>Heavy reliance on the direct channel creates a strong revenue foundation but also increases exposure to disruptions in direct traffic or conversion.</li>
+            <li>Across all major products—including the 27-inch 4K gaming monitor, Nintendo Switch, Lenovo IdeaPad Gaming 3, and Sony PlayStation 5 Bundle—the direct channel remains the dominant source of sales. This consistency suggests that channel effectiveness is structural rather than product-specific.</li>
           </ul>
         </td>
       </tr>
     </table>
   </tr>
 </table>
+
 <table align="center">
-  <h1 align="center">Refund Rates</h1>
   <tr>
-    <td width="500">
-       <div valign="top" align="center">
-      <h3>Refund Rates Were Higher for High-Value Products, Particularly Laptops</h3>
-      <img alt="Refund heat map of products" src="https://i.postimg.cc/5y2b75Fz/Screenshot-2026-01-11-at-11-46-37.png" />
-    </div>
+    <h1 align="center">Marketing Channel Performance Insights</h1>
+    <table align="center">
+    <tr align="center">
+      <td width="1000">
+      <h3>North America Is the Primary Growth Engine Across the Timeframe</h3>
+      <img width="450" src="https://i.postimg.cc/kG02vLx9/Screenshot-2026-01-15-at-11-49-56.png">
     </td>
-    <td valign="top" width="500">
-      <ul>
-        <li>Laptops have the lowest retention rate, with the highest return rate year over year being the ThinkPad Laptop, followed by the MacBook Air Laptop.</li>
-        <li>The least returned product is the Bose SoundSport Headphones, with a return rate of 0%, followed by the Samsung Charging Cable Pack, with an average return rate of 2%.</li>
-        <li>However, the Bose SoundSport Headphones and the Samsung Charging Cable Pack ranks are the least frequently purchased product, in the bottom half of purchase orders.</li>
-        <li>For 2022, there were no recorded returns for any product.</li>
-      </ul>
+    <td width="1000">
+      <h3>Core Products Perform Consistently Across Regions, Led by North America</h3>
+      <img width="550" src="https://i.postimg.cc/sxhXxKtV/Screenshot-2026-01-15-at-11-50-45.png">
     </td>
   </tr>
 </table>
-<table align="center">
-  <h1 align="center">Regional Results</h1>
-      <div align="center">
-        <img width="600" alt="Sales by region" src="https://i.postimg.cc/CMcb5rPG/Screenshot-2026-01-09-at-12-14-52.png" />
-      </div>
-  <tr valign="top">
-     <td width="900">
-      <ul>
-        <li>The North American region contributes the most to sales revenue for each TechZone product.</li>
+
+
+<table>
+      <tr>
+        <td>
           <ul>
-            <li>An average of 52% of total sales per product.</li>
-            <li>$2.7 million in 2022.</li>
+            <li>North America (NA) consistently generates the highest sales among all regions, rising from approximately $60K–$80K per month in 2019 to peaks exceeding $250K during high-demand periods. This sustained outperformance indicates that overall sales growth is largely driven by demand expansion in the North American market.</li>
+            <li>EMEA shows steady and meaningful growth over time, with monthly sales increasing from roughly $30K–$50K in 2019 to peaks near $180K–$190K.</li>
+            <li>Across all major products, North America remains the dominant region, consistently contributing the largest share of product-level sales.</li>
           </ul>
-        <li>In contrast, TechZone sales have underperformed in the Latin American region.</li>
-          <ul>
-            <li>Each product accounts for only an average of 6% of total sales.</li>
-            <li>$256 thousand in 2022.</li>
-          </ul>
-        <li>Samsung Webcam see their highest sales rate in North America.</li>
-          <ul>
-            <li>58% of total sales occur in this region.</li>
-          </ul>
-        <li>The 27-Inch 4K Gaming Monitor is the most popular across products.</li>
-          <ul>
-            <li>Accounts for 35% of total product sales.</li>
-          </ul>
-        <li>Meanwhile, the Bose SoundSport Headphones are the least favored.</li>
-          <ul>
-            <li>Sales are close to 0% across products</li>
-          </ul>
-      </ul>
-    </td>
+        </td>
+      </tr>
+    </table>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
 <!-- <table>
   <tr>
     <td width="700" border="0"><h1>Recommendations</h1>
-    <h4>Based on the uncovered insights, here are actionable items that TechZone can take away from our analysis.</h4></td>
+    <h4>Based on the uncovered insights, here are actionable items that TechGamer can take away from our analysis.</h4></td>
     <td width="400" border="0"><div align="right">
       
     </div></td>
@@ -307,39 +294,32 @@
 </table> -->
 <table align="center">
     <h1>Recommendations</h1>
-    <h4>Based on the uncovered insights, here are actionable items that TechZone can take away from our analysis.</h4>
+    <h4>Based on the uncovered insights, here are actionable items that TechGamer can take away from our analysis.</h4>
       <ul>
         <h3>Sales</h3>
-        <li>The consistent seasonal slowdowns observed in January and February suggest an opportunity to stabilize early-year revenue through increased marketing investment and targeted promotional campaigns during these low-demand periods.</li>
-          <li>The sharp and anomalous decline in October 2022 (–31% growth rate), which marked the lowest revenue point across the four-year period, should be investigated in greater detail. Further analysis into pricing changes, customer behavior shifts, competitive pressures, or operational disruptions may help identify the root causes of this decline.</li>
-          <li>The substantial drops in both sales and order volume during Q4 2022 (–48% and –47%, respectively), as well as the overall downturn in 2022, indicate broader structural challenges beyond seasonality. To reverse this trend, the company should reassess its pricing and promotional strategies, optimize the timing and effectiveness of campaigns, and strengthen customer engagement and retention initiatives.</li>
-        <li>historical performance shows that Q3 and Q4 have been strong revenue-generating periods in prior years. Leveraging insights from these high-performing periods can help refine future marketing and sales strategies and support a more sustainable recovery heading into 2023.</li>
+        <li>Incorporate observed Q4 demand peaks into annual sales forecasting, inventory planning, and operational resourcing to fully capture high-demand periods.</li>
+          <li>Proactively address early-year softness through targeted promotions, pricing incentives, or bundled offerings to reduce revenue volatility outside peak seasons.</li>
+          <li>Use historical seasonality patterns as a baseline for capacity planning, rather than applying uniform monthly targets across the year.</li>
           <ul>
           </ul>
         <h3>Products</h3>
-        <li>Optimize inventory for high-performing products year-round.</li>
-          <ul><li>The 27-Inch 4K Gaming Monitor is the strongest product in terms of sales, approaching $10 million over four years.</li>
-          <li>The Apple AirPods are also a strong-selling product, with close to $8 million in sales over four years.</li></ul>
-        <li>Deprioritize inventory for low-performing products.</li>
-          <ul><li>Bose SoundSport Headphones and Apple iPhone constitute for nearly 0% of total purchase orders.</li></ul>
-        <li>Investigate sales for MacBook Air laptops.</li>
-          <ul><li>MacBook Air Laptops rank third in sales revenue (22%) but fall in the bottom half for number of purchase orders (4%).</li></ul>
-        <h3>Loyalty Program</h3>
-        <li>Continue a strong push for the loyalty program to boost and stabilize sales, as loyalty members are more likely to return as customers and purchase high-priced items.</li>
-          <ul><li> Loyalty Member AOV grew 18% from 2019 to 2022</li>
-            <li>Loyalty members spent $31 more on average than non-loyalty members in 2022.</li></ul>
-        <li>Offer incentives for loyalty members to target purchases of MacBook Air laptops.</li>
-          <ul><li>Loyalty members align with the ideal user persona for MacBook Air laptops, as they purchase high-priced products, are more likely to return as customers, and rarely make returns.</li></ul>
-        <h3>Refund Rates</h3>
-        <li>Streamline product quality control for high AOV products as they are the most frequently returned products.</li>
-          <ul><li>Macbook Air Laptops had an average return rate of 14% from 2019 to 2021.</li>
-          <li>Thinkpad Laptops also had an average return rate of 14% from 2019 to 2021.</li></ul>
-        <h3>Regions</h3>
-        <li>Maximize market share in North America, as this region dominates sales across all TechZone products.</li>
-          <ul><li>52% of product sales were in the North American region.</li></ul>
-        <li>Diversify the portfolio in the Latin American region by expanding localized product offerings, sales channels, and market reach to increase sales revenue and purchase orders.</li>
-          <ul><li>Only 6% of product sales were in the Latin American region.</li></ul>
-        <li>Continue to streamline high-performing products.</li>
-          <ul><li> The demand for the 27-inch 4K Gaming Monitor and Apple AirPods headphones remains high relative to the region.</li></ul>
+        <li>Protect Flagship Products While Reducing Concentration Risk</li>
+          <ul><li>Prioritize inventory availability, supply chain resilience, and pricing discipline for core revenue-driving products, including the 27-inch 4K gaming monitor, Nintendo Switch, and PlayStation 5 Bundle.</li>
+          <li>The Apple AirPods are also a strong-selling product, with close to $8 million in sales over four years.</li>
+          <li>Develop complementary or adjacent product offerings to gradually diversify revenue sources, reducing overreliance on a small number of flagship products.</li></ul>
+        <li>Apply product-specific strategies based on revenue drivers:</li>
+          <ul><li>High-volume products: focus on availability and fulfillment efficiency.</li>
+          <li>High-AOV products: protect margins and premium positioning.</li></ul>
+        <h3>Marketing Channel</h3>
+        <li>Continue to invest in and optimize the direct channel, which is the primary driver of sales growth across products and regions.</li>
+        <li> Expand the role of email marketing as a reliable secondary channel, particularly for repeat purchases and targeted campaigns during off-peak periods.</li>
+            <li>Reassess affiliate and social media strategies to identify product- or region-specific use cases, rather than expecting uniform performance across the portfolio.</li>
+        <li>Establish channel-level performance benchmarks to monitor concentration risk and guide diversification efforts.</li>
+          <h3>Region</h3>
+        <li>Maintain strategic focus on North America, which serves as the primary growth engine across products and channels.</li>
+          <li>Continue scaling EMEA as a strong secondary market, leveraging its consistent alignment with overall demand trends.</li>
+          <li>Thinkpad Laptops also had an average return rate of 14% from 2019 to 2021.</li>
+          <li>Adopt a selective, product-led approach in APAC and LATAM, prioritizing products that already show early traction rather than broad regional expansion.</li>
+          <li>Avoid one-size-fits-all regional strategies; instead, tailor go-to-market approaches by region–product combination.</li>
       </ul>
 </table>
