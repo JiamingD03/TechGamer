@@ -246,7 +246,7 @@
 
 <table align="center">
   <tr>
-    <h1 align="center">Marketing Channel Performance Insights</h1>
+    <h1 align="center">Regional Performance Insights</h1>
     <table align="center">
     <tr align="center">
       <td width="1000">
